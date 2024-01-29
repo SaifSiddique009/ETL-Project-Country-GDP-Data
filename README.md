@@ -41,9 +41,6 @@ The script is named `etl_project_gdp.py` and consists of two parts:
 
 The script is commented and documented for better readability and understanding. You can refer to the comments and the docstrings for more details about the functions and the variables.
 
-## Error Handling
-
-The script is designed to handle errors and exceptions gracefully. If the URL is not accessible, the script will log the error and exit. If the data is not found or not in the expected format, the script will log the error and exit. If the CSV file, the database file, or the log file cannot be created or written, the script will log the error and exit.
 
 ## Modularity and Reusability
 
